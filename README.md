@@ -2,18 +2,11 @@
 
 #### by [Sayed Ahmed](https://github.com/sayeed205)
 
-## Table of Contents
-
--   ### [Roadmap](/roadmap.md)
--   ### [Content Index](/content-index.md)
--   ### [Contributing](/CONTRIBUTING.md)
--   ### [License](/LICENSE)
-
 ## Introduction
 
 This repository contains a collection of resources to learn data structures and algorithms in JavaScript. The resources are organized into a roadmap that will help you learn the concepts in a structured manner. The roadmap is divided into different sections, each of which contains a list of resources to learn a particular topic. The resources are organized in a way that you can start with the basics and gradually move on to more advanced topics.
 
-## Roadmap
+## [Roadmap](/roadmap.md)
 
 -   ### [Basic JavaScript](pages/basic-javascript.md)
 -   ### [Arrays and Objects](pages/arrays-and-objects.md)
